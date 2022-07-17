@@ -1,6 +1,6 @@
 ## Olá! Eu sou Gabriel Behling
 
-- 🌱 Hoje estudo python
+- 🌱 Hoje estudo python e javascript
 - 😄 Pronouns: ele/dele
 
 <div align="center">
