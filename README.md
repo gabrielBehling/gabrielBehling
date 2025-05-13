@@ -1,6 +1,6 @@
 ## Olá! Eu sou Gabriel Behling
 
-- 🌱 Hoje estudo python e javascript
+- 🌱 Sou um desenvolvedor focado em back-and, principalmente para a área web
 - 😄 Pronouns: ele/dele
 
 <div align="center">
