@@ -1,12 +1,33 @@
-## Olá! Eu sou Gabriel Behling
+# 👋 Hi, I'm Gabriel Behling
 
-- 🌱 Sou um desenvolvedor focado em back-and, principalmente para a área web
-- 😄 Pronouns: ele/dele
+💻 Backend Developer focused on building scalable and maintainable web applications.
+
+---
+
+## 🚀 About Me
+
+I am a technology professional specializing in backend development with **Node.js, C#, and Python**.
+
+Currently, I work as an **Information Technology Instructor**, helping students develop programming and software development skills. This experience has strengthened my ability to explain technical concepts, solve problems, and transform complex ideas into practical solutions.
+
+Alongside teaching, I continuously develop personal projects, explore new technologies, and deepen my knowledge of **backend development, software architecture, APIs, and databases**.
+
+My goal is to keep growing as a software developer by building well-structured applications, improving my technical skills, and embracing continuous learning.
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-  <a href="https://github.com/gabrielBehling">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielBehling&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielBehling&layout=compact&langs_count=5&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,cs,python,js,ts,express,dotnet,postgres,mysql,mongodb,docker,git,github,vscode" />
+
 </div>
-  
-![Snake animation](https://github.com/gabrielBehling/gabrielBehling/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/gabrielbehling)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:gabrielbehling1@gmail.com)
